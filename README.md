@@ -4,13 +4,14 @@
 - 📈 Team Penne/Presto Scrum Master
 - 📚 Currently learning [Spark](https://spark.apache.org/), [ZIO](https://zio.dev/), and [k8s](https://kubernetes.io/)
 
+-----------------------------------------------------------------------
 
-<a href="https://github.com/natterstefan/josephbwagner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josephbwagner&show_icons=true&line_height=27&count_private=true&theme=radical" />
+<a href="https://github.com/josephbwagner/josephbwagner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephbwagner&theme=dark" />
 </a>
 
 <a href="https://github.com/josephbwagner/josephbwagner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephbwagner&show_icons=true&theme=radical&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josephbwagner&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Joseph's GitHub Stats" />
 </a>
 
 <!--
