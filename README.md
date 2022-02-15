@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏗 Harmony Data Platform Engineer
+- 🏗 Harmony Data Platform Engineer [(GLCP)](https://www.hpe.com/us/en/greenlake.html)
 - 📈 Team Penne/Presto Scrum Master
 - 📚 Currently learning [Spark](https://spark.apache.org/), [ZIO](https://zio.dev/), and [k8s](https://kubernetes.io/)
 
