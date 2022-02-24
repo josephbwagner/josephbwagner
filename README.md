@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🏗 Harmony Data Platform [(GLCP)](https://www.hpe.com/us/en/greenlake.html) Engineer, [Scrum Master](https://scrumguides.org/index.html)
-- 📚 Currently learning [Spark](https://spark.apache.org/), [ZIO](https://zio.dev/), and [k8s](https://kubernetes.io/)
+- 📚 Currently learning [ZIO](https://zio.dev/)
 
 -----------------------------------------------------------------------
 
